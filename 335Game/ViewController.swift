@@ -14,7 +14,25 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
+    @IBAction func up(_ sender: Any) {
+        
+    }
+    
+    @IBAction func down(_ sender: Any) {
+        
+    }
+    
+    @IBAction func right(_ sender: Any) {
+        
+    }
+    
+    @IBAction func left(_ sender: Any) {
+        
+    }
+    
+    func viewIntersectsView(_ first_View: UIView, second_View: UIView) -> Bool{
+        return first_View.frame.intersects(second_View.frame)
+    }
 }
 

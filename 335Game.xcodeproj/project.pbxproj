@@ -13,6 +13,8 @@
 		74D0B57E2458C4CC0097A3EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74D0B57C2458C4CC0097A3EB /* Main.storyboard */; };
 		74D0B5802458C4D20097A3EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74D0B57F2458C4D20097A3EB /* Assets.xcassets */; };
 		74D0B5832458C4D20097A3EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74D0B5812458C4D20097A3EB /* LaunchScreen.storyboard */; };
+		74D0B58B2458D21B0097A3EB /* appleMonkey.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 74D0B58A2458D21B0097A3EB /* appleMonkey.jpeg */; };
+		74D0B58D2458D23A0097A3EB /* banana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 74D0B58C2458D2390097A3EB /* banana.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		74D0B57F2458C4D20097A3EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74D0B5822458C4D20097A3EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74D0B5842458C4D20097A3EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74D0B58A2458D21B0097A3EB /* appleMonkey.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = appleMonkey.jpeg; sourceTree = "<group>"; };
+		74D0B58C2458D2390097A3EB /* banana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = banana.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				74D0B5762458C4CC0097A3EB /* AppDelegate.swift */,
 				74D0B5782458C4CC0097A3EB /* SceneDelegate.swift */,
 				74D0B57A2458C4CC0097A3EB /* ViewController.swift */,
+				74D0B58A2458D21B0097A3EB /* appleMonkey.jpeg */,
+				74D0B58C2458D2390097A3EB /* banana.jpg */,
 				74D0B57C2458C4CC0097A3EB /* Main.storyboard */,
 				74D0B57F2458C4D20097A3EB /* Assets.xcassets */,
 				74D0B5812458C4D20097A3EB /* LaunchScreen.storyboard */,
@@ -126,8 +132,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				74D0B5832458C4D20097A3EB /* LaunchScreen.storyboard in Resources */,
+				74D0B58B2458D21B0097A3EB /* appleMonkey.jpeg in Resources */,
 				74D0B5802458C4D20097A3EB /* Assets.xcassets in Resources */,
 				74D0B57E2458C4CC0097A3EB /* Main.storyboard in Resources */,
+				74D0B58D2458D23A0097A3EB /* banana.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
